@@ -8,11 +8,11 @@ Next, run the script
 
 You can use --host to specify the hostname
 
-Example: python .\port-scan.py --host google.com
+> Example: python .\port-scan.py --host google.com
 
 For help, use -h or --help
 
-Example: python .\port-scan.py -h
+> Example: python .\port-scan.py -h
 
 Observation:
 
